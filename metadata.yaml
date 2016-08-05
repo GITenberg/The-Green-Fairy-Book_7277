@@ -1,0 +1,41 @@
+_repo: The-Green-Fairy-Book_7277
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+description: ''
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7277'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+- GITenberg
+tableOfContents: The Blue Bird -- The Half-Chick -- The Story of Caliph Stork -- The
+  Enchanted Watch -- Rosanella -- Sylvain and Jocosa -- Fairy Gifts -- Prince Narcissus
+  and the Princess Potentilla -- Prince Featherhead and the Princess Celandine --
+  The Three Little Pigs -- Heart of Ice -- The Enchanted Ring -- The Snuff-box --
+  The Golden Blackbird -- The Little Soldier -- The Magic Swan -- The Dirty Shepherdess
+  -- The Enchanted Snake -- The Biter Bit -- King Kojata -- Prince Fickle and Fair
+  Helena -- Puddocky -- The Story of Hok Lee and the Dwarfs -- The Story of the Three
+  Bears -- Prince Vivien and the Princess Placida -- Little One-eye, Little Two-eyes,
+  and Little Three-eyes -- Jorinde and Joringel -- Allerleirauh; or, the Many-furred
+  Creature -- The Twelve Huntsmen -- Spindle, Shuttle, and Needle -- The Crystal Coffin
+  -- The Three Snake-leaves -- The Riddle -- Jack my Hedgehog -- The Golden Lads --
+  The White Snake -- The Story of a Clever Tailor -- The Golden Mermaid -- The War
+  of the Wolf and the Fox -- The Story of the Fisherman and his Wife -- The Three
+  Musicians -- The Three Dogs.
+title: The Green Fairy Book
+url: http://www.gutenberg.org/ebooks/7277
